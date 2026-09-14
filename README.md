@@ -5,5 +5,5 @@ This project is a simple library website created as part of my web development l
 ## Technologies
 - HTML
 - CSS
-- ## Author
+## Author
 - Junior Mpofu
